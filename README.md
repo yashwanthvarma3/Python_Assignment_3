@@ -1,7 +1,7 @@
 # Python_Assignment_3
 Assignment3
-Problem Statement
-Task 1:
+## Problem Statement
+## Task 1:
 1.
 Write a function to compute 5/0 and use try/except to catch the exceptions.
 2.
